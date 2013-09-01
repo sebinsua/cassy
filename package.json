@@ -1,0 +1,15 @@
+{
+  "author": "Seb Insua",
+  "name": "cassy",
+  "description": "Helper lib for node-cassandra-client. Early version.",
+  "version": "0.1",
+  "main": "./lib/main",
+  "dependencies": {
+    "async": ">= 0.1.12",
+    "underscore": ">= 1.5.1",
+    "cassandra-client": ">= 0.12.0"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
